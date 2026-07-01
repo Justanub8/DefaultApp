@@ -1,0 +1,106 @@
+{
+  "app": {
+    "login": {
+      "user_name": "Tên đăng nhập",
+      "password": "Mật khẩu"
+    },
+    "common": {
+      "company_name": "CÔNG TY TNHH NƯỚC SẠCH",
+      "on": "Bật",
+      "off": "Tắt",
+      "month": "Tháng",
+      "user": "Người dùng",
+      "version": "Phiên bản",
+      "recorded": "Đã ghi",
+      "recorded_total": "Đã ghi/Tổng",
+      "not_recorded": "Chưa ghi",
+      "area": "Khu vực",
+      "id": "ID",
+      "progress": "Tiến độ",
+      "tieu_thu": "Tiêu thụ",
+      "back": "Quay lại",
+      "start": "Bắt đầu",
+      "agree": "Đồng ý",
+      "login": "Đăng nhập",
+      "logout": "Đăng xuất",
+      "save": "Lưu",
+      "find": "Tìm kiếm",
+      "all": "Tất cả",
+      "enter_new_value": "Nhập chỉ số mới",
+      "clock_code_not_found": "Không tìm thấy mã đồng hồ",
+      "please_re_take_or_search_manually": "Vui lòng chụp lại hoặc tìm kiếm thủ công",
+      "retake_photo": "Chụp lại",
+      "something_went_wrong": "Có lỗi xảy ra! Vui lòng thử lại sau",
+      "history_month": "Lịch sử tháng {{date}}",
+      "thang_khong_co_ghi_chu": "Tháng này không có ghi chú",
+      "thang_khong_co_anh_chup": "Tháng này không có ảnh chụp",
+      "thang_khong_co_lich_su_chot_so": "Tháng này không có lịch sử chốt số",
+      "cap_nhat_du_lieu_moi": "Cập nhật lại dữ liệu mới từ máy chủ?",
+      "du_lieu_cu_se_bi_xoa": "Dữ liệu cũ lưu trong ứng dụng sẽ bị xoá",
+      "dong_y": "Đồng ý",
+      "khong_cap_nhat": "Không cập nhật",
+      "qr_chua_duoc_gan": "Mã QR chưa được gán",
+      "gan_qr": "Gán mã QR",
+      "gan_qr_cho_khach_hang": "Gán mã QR cho khách hàng?",
+      "huy": "Huỷ",
+      "chi_so_moi_khong_duoc_nho_hon_chi_so_cu": "Chỉ số mới không được nhỏ hơn chỉ số cũ",
+      "chi_so_bat_thuong": "Chỉ số bất thường",
+      "vui_long_nhap_chi_so_moi": "Vui lòng nhập chỉ số mới ",
+      "muc_tieu_thu": "Mức tiêu thụ",
+      "loai_khach_hang": "Loại khách hàng"
+    },
+    "menu": {
+      "list": "Danh sách",
+      "scan_qr": "Quét QR",
+      "scan_clock": "Quét mã ĐH"
+    },
+    "area_dashboard": {
+      "area_list": "Danh sách khu vực",
+      "data_sync": "Đồng bộ dữ liệu",
+      "ensure_internet": "Hãy chắc chắn bạn có kết nối Internet truớc khi đồng bộ",
+      "logout_warning": "Tất cả dữ liệu khách hàng lưu trong ứng dụng sẽ bị xoá"
+    },
+    "record_detail": {
+      "new_value": "Chỉ số mới",
+      "old_value": "Chỉ số cũ",
+      "clock_code": "Mã đồng hồ",
+      "phone_number": "Số điện thoại",
+      "address": "Địa chỉ",
+      "history": "Lịch sử",
+      "note": "Ghi chú",
+      "enter_note": "Nhập ghi chú",
+      "print_temp_receipt": "In tạm thu",
+      "print_receipt": "In biên lai",
+      "tap_here_to_take_a_photo": "Nhấn vào đây để chụp ảnh",
+      "call_now": "Gọi ngay",
+      "picture": "Ảnh",
+      "chua_co_anh_chup": "Chưa có ảnh chụp"
+    },
+    "printer": {
+      "bluetooth_status": "Trạng thái Bluetooth",
+      "connecting_device": "Thiết bị đang kết nối",
+      "nearby_devices": "Các thiết bị ở gần",
+      "connected_devices": "Các thiết bị đã ghép đôi",
+      "receipt_info": "Thông tin hoá đơn",
+      "print_receipt_paper": "In phiếu thu"
+    },
+    "camera": {
+      "please_take_a_photo_with_clock_face": "Vui lòng chụp ảnh mặt đồng hồ",
+      "camera_to_qr": "Đưa camera đến vùng chứa QR để quét"
+    },
+    "sync": {
+      "sync_area": "Đồng bộ dữ liệu khu vực",
+      "sync_customer": "Đồng bộ dữ liệu khách hàng"
+    },
+    "found_customers": {
+      "found_customers": "Khách hàng tìm được"
+    },
+    "receipt" : {
+      "khong_co" : "Không có",
+      "thiet_bi_dang_ket_noi" : "Thiết bị đang kết nối",
+      "thiet_bi_o_gan" : "Thiết bị ở gần",
+      "cac_thiet_bi_da_ghep_doi" : "Các thiết bị đã ghép đôi",
+      "thong_tin_hoa_don" : "Thông tin hoá đơn" 
+    }
+  }
+}
